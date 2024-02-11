@@ -25,3 +25,13 @@ F
 lessons/lessons_2.6.py,6/0/6017c73f20c2cc1accb82cf6c75384c2f15a037c
 F
 lessons/lessons_2.7.py,5/2/52756db5eec803d55f3f41c2a89fe63e4ff802ea
+F
+homework/homework_2.py,e/c/ecd87068b1857d14fce73b987de98e6f2f4e690e
+H
+homework/homework_2.2.py,a/b/ab8bb70f0f420558fa0fe35c1d327e302dff47a7
+H
+homework/homework_2.3.py,7/9/79496c6d7148d78f217a63329141d3ee124e64ed
+H
+homework/homework_2.1.py,2/c/2cb4daf3306df659b4c8fdac0066529a35a627eb
+@
+homework/text.py,7/1/7159802799b6b83cecdea896e469aafdfc0fdf37
